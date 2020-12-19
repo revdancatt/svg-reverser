@@ -1,0 +1,30 @@
+{
+  "name": "svg-reverser",
+  "version": "0.0.1",
+  "description": "A command line tool to reverse the order of an SVG file for pen plotting.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://revdancatt@github.com/revdancatt/svg-reverser.git"
+  },
+  "keywords": [
+    "svg",
+    "penplotter"
+  ],
+  "author": "RevDanCatt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/revdancatt/svg-reverser/issues"
+  },
+  "homepage": "https://github.com/revdancatt/svg-reverser#readme",
+  "devDependencies": {
+    "standard": "^16.0.3"
+  },
+  "bin": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
